@@ -1,2 +1,1 @@
-message = ''
-print("Please \n"*10)
+print('Hey')
